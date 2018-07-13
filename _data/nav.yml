@@ -1,7 +1,7 @@
 - name: "Contact"
   link: "contact/"
 
-- name: "Resume"
+- name: "Download"
   link: "resume.pdf"
 
 - name: "About"
@@ -9,3 +9,6 @@
 
 - name: "GitHub"
   link: "https://github.com/paddytobias"
+
+- name: "References"
+  link: "#references"
