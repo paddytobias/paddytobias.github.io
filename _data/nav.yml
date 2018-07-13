@@ -1,14 +1,14 @@
 - name: "Contact"
   link: "contact/"
-
-- name: "Download"
-  link: "resume.pdf"
-
+  
 - name: "About"
   link: "about/"
+  
+- name: "References"
+  link: "#references"
 
 - name: "GitHub"
   link: "https://github.com/paddytobias"
 
-- name: "References"
-  link: "#references"
+- name: "Download resume"
+  link: "resume.pdf"
