@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-[paddytobias@me.com](mailto:paddytobias@me.com)
-
-[+61 403 328 864](tel:+61-403328864)
+[paddytobias@me.com](mailto:paddytobias@me.com) || [+61 403 328 864](tel:+61-403328864)
 
 ## About Me
 
@@ -82,16 +80,16 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 
 ## References
 Prof Heiko Daniel
-Deputy Vice Chancellor - Research
+**Deputy Vice Chancellor - Research**
 University of New England
-[dvcr@une.edu.au](mailto:dvcr@une.edu.au) | [+612 6773 2080](tel:+61-267732080)
+[dvcr@une.edu.au](mailto:dvcr@une.edu.au) || [+612 6773 2080](tel:+61-267732080)
 
 Dr Jonathan Arthur
-National Services Manager
+**National Services Manager**
 Intersect Australia
-[jonathan@intersect.org.au](mailto:jonathan@intersect.org.au) | [+614 309 690 502](tel:+61-4309690502)
+[jonathan@intersect.org.au](mailto:jonathan@intersect.org.au) || [+614 309 690 502](tel:+61-4309690502)
 
 Dr Eliza Kent
-Deputy Director, Graduate Studies
+**Deputy Director, Graduate Studies**
 University of New England
-[ekent@une.edu.au](mailto:ekent@une.edu.au) | [[+612 6773 3715](tel:+61-267733715)
+[ekent@une.edu.au](mailto:ekent@une.edu.au) || [[+612 6773 3715](tel:+61-267733715)
