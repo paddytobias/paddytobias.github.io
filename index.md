@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[paddytobias@me.com](mailto:paddytobias@me.com) || [+61 403 328 864](tel:+61-403328864)
+[paddytobias@me.com](mailto:paddytobias@me.com) | [+61 403 328 864](tel:+61-403328864)
 
 ## About Me
 
@@ -66,7 +66,6 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 2. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables in Muscat.
 
 ## Selected Publications
-
 1. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
 2. Reeson, R & P Tobias, 2017, 'Working towards the “end-to-end”: Research Data Management Capability Development at UNE', [eResearch Australasia](https://conference.eresearch.edu.au/2017/09/working-towards-the-end-to-end-research-data-management-capability-development-at-une/), Brisbane
 
@@ -80,16 +79,16 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 
 ## References
 Prof Heiko Daniel
-**Deputy Vice Chancellor - Research**
+**Deputy Vice Chancellor - Research**,
 University of New England
 [dvcr@une.edu.au](mailto:dvcr@une.edu.au) || [+612 6773 2080](tel:+61-267732080)
 
 Dr Jonathan Arthur
-**National Services Manager**
+**National Services Manager**,
 Intersect Australia
 [jonathan@intersect.org.au](mailto:jonathan@intersect.org.au) || [+614 309 690 502](tel:+61-4309690502)
 
 Dr Eliza Kent
-**Deputy Director, Graduate Studies**
+**Deputy Director, Graduate Studies**,
 University of New England
 [ekent@une.edu.au](mailto:ekent@une.edu.au) || [[+612 6773 3715](tel:+61-267733715)
