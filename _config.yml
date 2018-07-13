@@ -8,8 +8,9 @@ tracking_id: UA-120932006-1
 
 footer: yes
 footer_url: "https://paddytobias.github.io/resume/"
-footer_text: "<p>Resumé of Dr Paddy Tobias</p><p><a href="mailto:paddytobias@me.com">paddytobias@me.com</a></p><p>[+61 403 328 864](tel:+61-403328864)</p>"
+footer_text: "<p>Resumé of Dr Paddy Tobias</p><p><a href="mailto:paddytobias@me.com">paddytobias@me.com</a></p><p><a href="tel:+61403328864" class="Blondie"></p>"
 
 sass:
     style: compressed
     sass_dir: _sass
+
