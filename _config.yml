@@ -8,7 +8,7 @@ tracking_id: UA-120932006-1
 
 footer: yes
 footer_url: "mailto:paddytobias@me.com"
-footer_text: "<p>paddytobias@me.com</p><p>0403 328 864</p>"
+footer_text: "<p>0403 328 864</p><p>paddytobias@me.com</p>"
 
 sass:
     style: compressed
