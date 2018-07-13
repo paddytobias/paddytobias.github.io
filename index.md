@@ -35,8 +35,10 @@ I am currently based at UNE in this role, reporting to the Deputy Vice Chancello
 
 ## Other experience
 * Corporate Communications Officer (2015-2016), *UNE*
+
 In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university. 
 * Casual academic lecturer and tutor (2011-2015), *UNE*
+
 I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace anf Conflict Studies and Education. 
 * Research Fellow (2014), *Queen's University* (Belfast)
 * Lead consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste for *Search for Common Ground* (Washington)
