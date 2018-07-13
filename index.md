@@ -15,7 +15,9 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at the Uni
 ### eResearch Analyst, Intersect Australia
 *May 2016-ongoing*
 
-I am currently based at UNE in this role, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst based in the Research Services Directorate, to carry out this role effectively, there is a need to work collaboratively with the University Library and the IT Directorate, as well as the faculties. Through these relationships I have been an active member of a number of UNE's grant-funded research projects, strategic university-wide eResearch initiatives, and researcher training events. I have included a selection below:
+I am currently based at UNE in this role, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst based in the Research Services Directorate, to carry out this role effectively, there is a need to work collaboratively with the University Library and the IT Directorate, as well as the faculties. Through these relationships I have been an active member of a number of UNE's grant-funded research projects, strategic university-wide eResearch initiatives, and researcher training events. 
+
+I have included a selection below:
 
 #### Strategic initiatives
 * Since August 2016 I have chaired the University's [eResearch Committee](http://www.une.edu.au/research/digital-research-support/eresearch-committee), a committee sponsored by the DVCR, since August 2016, established to advance the university's eResearch services. In my time as chair, I have led the investigation of various university eResearch capabilities; overseen the committee's restructure and renewal; and reported to the University Research Committee and the DVCR as required.
@@ -55,21 +57,22 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 
 **B.IntRelations**, *Distinction*. Deakin University, 2007-2009
 
-### Other qualifications
-[Software Carpentry instructor](https://software-carpentry.org/) accreditation, 2018
+<details>
+    <summary><h3>Other qualifications</h3></summary>
+    <br>[Software Carpentry instructor](https://software-carpentry.org/) accreditation, 2018</br>
+</details>
 
 ---
 
 {% include skills.html %}
 
 ---
-## Software projects
-1. Tobias, P. 2018. [eventbriteR](https://github.com/paddytobias/eventbriteR). A package for R that can call the Eventbrite API for event, order and user information. 
-2. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables in Muscat.
 
 ## Selected Publications
-1. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
-2. Reeson, R & P Tobias, 2017, 'Working towards the “end-to-end”: Research Data Management Capability Development at UNE', [eResearch Australasia](https://conference.eresearch.edu.au/2017/09/working-towards-the-end-to-end-research-data-management-capability-development-at-une/), Brisbane
+1. Tobias, P. 2018. [eventbriteR](https://github.com/paddytobias/eventbriteR). A package for R that can call the Eventbrite API for event, order and user information. 
+2. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables in Muscat.
+3. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
+4. Reeson, R & P Tobias, 2017, 'Working towards the “end-to-end”: Research Data Management Capability Development at UNE', [eResearch Australasia](https://conference.eresearch.edu.au/2017/09/working-towards-the-end-to-end-research-data-management-capability-development-at-une/), Brisbane
 
 #### Other academic publications
 1. Tobias, P. 2017, ‘Truth and Reconciliation in Timor-Leste: Some reflections ten years on’, in Reconciliation in conflict affected communities: Experiences and insights from the Asia-Pacific, Springer.
@@ -78,6 +81,7 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 4. Tobias, P 2014, ‘Keeping Community: Traditional Culture and Implications for Maintaining Peace in Post-Conflict Society in Aileu, Timor Leste,’ in H Ware, B Jenkins, M Branagan & D Subedi (eds), Cultivating Peace: Contexts, Practices and Multidimensional Models, Cambridge Scholar Publishing, Newcastle upon Tyne.
 5. Tobias, P, 2012, ‘Maintaining a Civic Nation: social cohesion in Timor Leste’, M Leach, NC Mendes, AB. da Silva, B Boughton & A da Costa Ximenes (eds.), New Research in Timor Leste, Melbourne: Swinburne Press. 
 
+---
 
 ## References
 Prof Heiko Daniel
