@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[paddytobias@me.com](mailto:paddytobias@me.com) [+61 403 328 864](tel:+61-403328864)
+
 
 ## About Me
 
