@@ -17,7 +17,7 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at the Uni
 **Ph.D**, *Cum laude*. University of New England, 2010-2015
 
 
-**M.DataScience**. University of New England, 2018-ongoing
+**M.DataScience**. University of New England, 2018-*ongoing*
 
 
 **B.IntRelations**, *Distinction*. Deakin University, 2007-2009
@@ -90,14 +90,14 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 Prof Heiko Daniel
 **Deputy Vice Chancellor - Research**,
 University of New England
-[dvcr@une.edu.au](mailto:dvcr@une.edu.au) || [+612 6773 2080](tel:+61-267732080)
+[hdaniel@une.edu.au](mailto:dvcr@une.edu.au) | [+612 6773 2080](tel:+61-267732080)
 
 Dr Jonathan Arthur
 **National Services Manager**,
 Intersect Australia
-[jonathan@intersect.org.au](mailto:jonathan@intersect.org.au) || [+614 309 690 502](tel:+61-4309690502)
+[jonathan@intersect.org.au](mailto:jonathan@intersect.org.au) | [+614 309 690 502](tel:+61-4309690502)
 
 Dr Eliza Kent
 **Deputy Director, Graduate Studies**,
 University of New England
-[ekent@une.edu.au](mailto:ekent@une.edu.au) || [[+612 6773 3715](tel:+61-267733715)
+[ekent@une.edu.au](mailto:ekent@une.edu.au) | [[+612 6773 3715](tel:+61-267733715)
