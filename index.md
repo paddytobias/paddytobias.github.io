@@ -58,7 +58,7 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 **B.IntRelations**, *Distinction*. Deakin University, 2007-2009
 
 <details>
-    <summary><h3>Other qualifications</h3></summary>
+    <summary><b>Other qualifications</b></summary>
     <br>[Software Carpentry instructor](https://software-carpentry.org/) accreditation, 2018</br>
 </details>
 
