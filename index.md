@@ -54,7 +54,7 @@ I have included a selection of activities below:
 * In 2016-17, I initiated and led the [Ngan'gi Language Collection Enhancement](https://projects.ands.org.au/id/CEP13) project for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements; managing the execution of the project from start to finish; and coordinating user acceptance testing, content migration and training. A/Prof Reid and I [presented the project](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/) at the 2017 eResearch Australasia conference.
 
 
-## Other experience
+## Select other experience
 **Corporate Communications Officer (2015-2016), UNE**
 
 In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets.
