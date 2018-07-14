@@ -13,21 +13,6 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at the Uni
 
 ---
 
-## Education
-**Ph.D**, *Cum laude*. University of New England, 2010-2015
-
-
-**M.DataScience**. University of New England, 2018-*ongoing*
-
-
-**B.IntRelations**, *Distinction*. Deakin University, 2007-2009
-
-
-### Other qualifications
-[Software Carpentry instructor](https://software-carpentry.org/) accreditation, 2018
-
----
-
 ## Current Position
 ### eResearch Analyst, Intersect Australia-University of New England
 *May 2016-ongoing*
@@ -67,6 +52,21 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 
 **Lead Consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste, [Search for Common Ground (Washington)](https://www.sfcg.org/)**
 
+
+---
+
+## Education
+**Ph.D**, *Cum laude*. University of New England, 2010-2015
+
+
+**M.DataScience**. University of New England, 2018-*ongoing*
+
+
+**B.IntRelations**, *Distinction*. Deakin University, 2007-2009
+
+
+### Other qualifications
+[Software Carpentry instructor](https://software-carpentry.org/) accreditation, 2018
 
 ---
 
