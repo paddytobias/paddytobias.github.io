@@ -55,14 +55,16 @@ I have included a selection of activities below:
 
 
 ## Other experience
-### Corporate Communications Officer (2015-2016), *UNE*
+**Corporate Communications Officer (2015-2016), UNE**
 
 In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets. 
-### Unit Coordinator, Lecturer and Tutor (*casual contract*, 2011-2015), *UNE*
+**Unit Coordinator, Lecturer and Tutor (*casual contract*, 2011-2015), UNE**
 
 I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace anf Conflict Studies and Education, teaching face-to-face and online (Moodle). 
-### Research Fellow (2014), Institute of Conflict Transformation and Social Justice, *Queen's University* (Belfast)
-### Lead Consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste, *Search for Common Ground* (Washington)
+
+**Research Fellow (2014), Institute of Conflict Transformation and Social Justice, Queen's University (Belfast)**
+
+**Lead Consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste, [Search for Common Ground (Washington)](https://www.sfcg.org/)**
 
 
 ---
