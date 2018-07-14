@@ -29,7 +29,7 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at the Uni
 ---
 
 ## Current Position
-### eResearch Analyst, Intersect Australia
+### eResearch Analyst, Intersect Australia-University of New England
 *May 2016-ongoing*
 
 I am currently based at UNE in this role, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst based in the Research Services Directorate, to carry out this role effectively, I work collaboratively with the University Library and the IT Directorate, as well as the faculties.
@@ -57,7 +57,8 @@ I have included a selection of activities below:
 ## Other experience
 **Corporate Communications Officer (2015-2016), UNE**
 
-In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets. 
+In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets.
+
 **Unit Coordinator, Lecturer and Tutor (*casual contract*, 2011-2015), UNE**
 
 I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace anf Conflict Studies and Education, teaching face-to-face and online (Moodle). 
