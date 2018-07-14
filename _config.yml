@@ -7,7 +7,8 @@ markdown: kramdown
 tracking_id: UA-120932006-1
 
 footer: yes
-footer_text: "<center><a href="paddytobias.github.io/resume/">paddytobias.github.io/resume/</a><p>paddytobias@me.com</p><p>0403 328 864</p></center>"
+footer_url: "mailto:paddytobias@me.com"
+footer_text: "<center><p>paddytobias.github.io/resume</p><p>paddytobias@me.com</p><p>0403 328 864</p></center>"
 
 sass:
     style: compressed
