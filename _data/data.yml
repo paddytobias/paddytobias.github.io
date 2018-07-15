@@ -8,7 +8,7 @@ skills:
           name: Python
           level: "width:500px;"
         - skill:
-          name: SQL (SQLite, Postgres and MySQL) and database design
+          name: SQL (SQLite, Oracle, Postgres and MySQL) and database design
           level: "width:610px;"
         - skill:
           name: GitHub and version control
