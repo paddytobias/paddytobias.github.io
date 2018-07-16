@@ -1,14 +1,14 @@
 - name: "References"
-  link: "#references"
+  link: "https://paddytobias.github.io/resume/#references"
 
 - name: "GitHub"
   link: "https://github.com/paddytobias"
 
 - name: "Download resume"
-  link: "resume.pdf"
+  link: "https://paddytobias.github.io/resume/resume.pdf"
 
 - name: "Contact"
-  link: "contact/"
+  link: "https://paddytobias.github.io/resume/contact/"
   
 - name: "About"
-  link: "about/"
+  link: "https://paddytobias.github.io/resume/about/"
