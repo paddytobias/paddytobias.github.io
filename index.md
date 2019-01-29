@@ -25,15 +25,17 @@ I am currently based at Deakin University, Burwood, reporting to the Director of
 </details>
 
 ### eResearch Analyst, University of New England - Intersect Australia
-<details><summary>**2016-2018**</summary>
+<details><summary><em>2016-2018</em></summary>
 <p>
-
+</p>
+<p>
 I previously based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst located in the Research Services Directorate, to carry out this role effectively, I work collaboratively with the University Library and the IT Directorate, as well as the faculties.
-
+</p>
+<p>
 I have included a selection of activities below:
-
-#### Strategic Initiatives
-* Since August 2016 I have chaired the University's [eResearch Committee](http://www.une.edu.au/research/digital-research-support/eresearch-committee), a committee sponsored by the DVCR, since August 2016, established to advance the university's eResearch services. As chair, I have led the investigation of various university eResearch capabilities; overseen the committee's restructure and renewal; and reported to the University Research Committee and the DVCR as required.
+</p>
+<p><b>Strategic Initiatives</b></p>
+<li>Since August 2016 I have chaired the University's [eResearch Committee](http://www.une.edu.au/research/digital-research-support/eresearch-committee), a committee sponsored by the DVCR, since August 2016, established to advance the university's eResearch services. As chair, I have led the investigation of various university eResearch capabilities; overseen the committee's restructure and renewal; and reported to the University Research Committee and the DVCR as required.</li>
 * Initiating and leading a year-long, university-wide Research Data Management project. This project functioned to build awareness amongst researchers of university services including the institutional cloud storage platform, [Cloud.UNE](https://cloud.une.edu.au); positively affect cultural change with regard to research data management; streamline inter-department workflows and advocate for further investment into infrastructure capabilities; and automate weekly reports on UNE researchers' usage of Cloud.UNE. The [latest report](https://goo.gl/pykM7P) indicates how successful this project has been in increasing researchers' usage of Cloud.UNE.
 * Member of a team establishing a Researcher Support Network at UNE, to support researcher support staff to carry out their roles effectively. ReSuN is intended to open communication channels between faculty-based staff and central services staff.
 * Earlier this year I conducted a [web-scraping and text analysis project](https://github.com/paddytobias/eResearchImpactEngagement) to support UNE's preparation for the Research Engagement and Impact assessment, using 2014 submissions to the UK REF Impact assessment.  
