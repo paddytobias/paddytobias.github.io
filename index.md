@@ -19,7 +19,8 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin 
 <details><summary>**2018-ongoing**</summary>
 <p>
 
-I am currently based at UNE in this role, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst based in the Research Services Directorate, to carry out this role effectively, I work collaboratively with the University Library and the IT Directorate, as well as the faculties.
+I am currently based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role is to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
+
 </p>
 </details>
 
@@ -27,7 +28,7 @@ I am currently based at UNE in this role, reporting to the Deputy Vice Chancello
 <details><summary>**2016-2018**</summary>
 <p>
 
-I am currently based at UNE in this role, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst based in the Research Services Directorate, to carry out this role effectively, I work collaboratively with the University Library and the IT Directorate, as well as the faculties.
+I previously based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst located in the Research Services Directorate, to carry out this role effectively, I work collaboratively with the University Library and the IT Directorate, as well as the faculties.
 
 I have included a selection of activities below:
 
@@ -57,7 +58,7 @@ I have included a selection of activities below:
 In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets.
 
 </p>
-<details>
+</details>
 
 <details><summary>**Unit Coordinator, Lecturer and Tutor (*casual contract*, 2011-2015), UNE**</summary>
 <p>
@@ -65,7 +66,7 @@ In this position I reported to the Office of the Vice Chancellor and spearheaded
 I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace and Conflict Studies and Education, teaching face-to-face and online (Moodle).
 
 </p>
-<details>
+</details>
 
 **Research Fellow (2014), Institute of Conflict Transformation and Social Justice, Queen's University (Belfast)**
 
