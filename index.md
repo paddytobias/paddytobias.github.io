@@ -20,6 +20,17 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin 
 <p>
 
 I am currently based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role is to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
+</p>
+<p>
+I have included a selection of activities below:
+</p>
+<p>
+<b>Education & Training</b></p>
+<li>I currently coordinate Intersect's training program at UNE, delivering the programming, data science and data management courses on campus. I manage two on-campus trainers and between the three of us, we deliver the only research training program at UNE.</li>
+<li>Over the past two years I have worked to improve the experience of participants inside and outside of the courses, through building up a network of interested researchers and systematically notifying them when courses become available. I have found that this has built a community of researchers interested in upskilling, which has facilitated peer-to-peer learning.</li>
+<li>Earlier this year I also completed the [Software Carpentry](https://software-carpentry.org/) accreditation. I am currently developing new courseware for [teaching the survey tool, Qualtrics](https://github.com/IntersectAustralia/surveys-with-qualtrics), with input from the Sydney-based Qualtrics office, as well as [research software management](https://github.com/paddytobias/research-software-management).</li>
+<li>I regularly present to HDRs, post-doctoral fellows and academics on data and software management techniques, eResearch capabilities, and help researchers in their projects through consultation and advice.</li>
+<li>I currently sit on the organising committee for [Sydney ResBaz (3-5 July, 2018)](https://resbaz.github.io/resbaz2018/sydney/). The event was held at Macquarie University and was a huge success. I was lead instructor for the [*Introductory R* stream](https://paddytobias.github.io/2018-07-03-resbaz-syd-intro-r/), coordinating three other trainers as well.</li>
 
 </p>
 </details>
@@ -36,16 +47,9 @@ I have included a selection of activities below:
 </p>
 <p><b>Strategic Initiatives</b></p>
 <li>Since August 2016 I have chaired the University's [eResearch Committee](http://www.une.edu.au/research/digital-research-support/eresearch-committee), a committee sponsored by the DVCR, since August 2016, established to advance the university's eResearch services. As chair, I have led the investigation of various university eResearch capabilities; overseen the committee's restructure and renewal; and reported to the University Research Committee and the DVCR as required.</li>
-* Initiating and leading a year-long, university-wide Research Data Management project. This project functioned to build awareness amongst researchers of university services including the institutional cloud storage platform, [Cloud.UNE](https://cloud.une.edu.au); positively affect cultural change with regard to research data management; streamline inter-department workflows and advocate for further investment into infrastructure capabilities; and automate weekly reports on UNE researchers' usage of Cloud.UNE. The [latest report](https://goo.gl/pykM7P) indicates how successful this project has been in increasing researchers' usage of Cloud.UNE.
-* Member of a team establishing a Researcher Support Network at UNE, to support researcher support staff to carry out their roles effectively. ReSuN is intended to open communication channels between faculty-based staff and central services staff.
-* Earlier this year I conducted a [web-scraping and text analysis project](https://github.com/paddytobias/eResearchImpactEngagement) to support UNE's preparation for the Research Engagement and Impact assessment, using 2014 submissions to the UK REF Impact assessment.  
-
-#### Education & Training
-* I currently coordinate Intersect's training program at UNE, delivering the programming, data science and data management courses on campus. I manage two on-campus trainers and between the three of us, we deliver the only research training program at UNE.
-* Over the past two years I have worked to improve the experience of participants inside and outside of the courses, through building up a network of interested researchers and systematically notifying them when courses become available. I have found that this has built a community of researchers interested in upskilling, which has facilitated peer-to-peer learning.
-* Earlier this year I also completed the [Software Carpentry](https://software-carpentry.org/) accreditation. I am currently developing new courseware for [teaching the survey tool, Qualtrics](https://github.com/IntersectAustralia/surveys-with-qualtrics), with input from the Sydney-based Qualtrics office, as well as [research software management](https://github.com/paddytobias/research-software-management).
-* I regularly present to HDRs, post-doctoral fellows and academics on data and software management techniques, eResearch capabilities, and help researchers in their projects through consultation and advice.
-* I currently sit on the organising committee for [Sydney ResBaz (3-5 July, 2018)](https://resbaz.github.io/resbaz2018/sydney/). The event was held at Macquarie University and was a huge success. I was lead instructor for the [*Introductory R* stream](https://paddytobias.github.io/2018-07-03-resbaz-syd-intro-r/), coordinating three other trainers as well.
+<li>Initiating and leading a year-long, university-wide Research Data Management project. This project functioned to build awareness amongst researchers of university services including the institutional cloud storage platform, [Cloud.UNE](https://cloud.une.edu.au); positively affect cultural change with regard to research data management; streamline inter-department workflows and advocate for further investment into infrastructure capabilities; and automate weekly reports on UNE researchers' usage of Cloud.UNE. The [latest report](https://goo.gl/pykM7P) indicates how successful this project has been in increasing researchers' usage of Cloud.UNE.</li>
+<li>Member of a team establishing a Researcher Support Network at UNE, to support researcher support staff to carry out their roles effectively. ReSuN is intended to open communication channels between faculty-based staff and central services staff.</li>
+<li>Earlier this year I conducted a [web-scraping and text analysis project](https://github.com/paddytobias/eResearchImpactEngagement) to support UNE's preparation for the Research Engagement and Impact assessment, using 2014 submissions to the UK REF Impact assessment.</li>
 
 #### Research Project Consultancies
 * Providing eResearch support to an ARC Discovery Project in digital musicology led by Dr Jason Stoessel since 2016. I also supported the successful application for a successive ARC Discovery grant awarded to Dr Stoessel and his colleague, Dr Denis Collins (UQ). My work in this project has involved leading the migration and formatting ~5,000 data records from a FileMaker Pro database into an open source online database repository called Muscat using database techniques; scripting [bug fixes in Python and SQL](https://github.com/IntersectAustralia/muscat-join-script); and project management. A staging version of the [Canonic Techniques website](https://canons-staging.intersect.org.au/catalog) is now live.
