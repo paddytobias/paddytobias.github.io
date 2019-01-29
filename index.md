@@ -16,7 +16,7 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin 
 ## Current Position
 
 ### eResearch Analyst, Deakin University - Intersect Australia
-<details><summary>**2018-ongoing**</summary>
+<details><summary><em>2018-ongoing</em></summary>
 <p>
 
 I am currently based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role is to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
