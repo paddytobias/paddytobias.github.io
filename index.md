@@ -15,21 +15,17 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin 
 
 ## Current Position
 
-### eResearch Analyst, Intersect Australia-Deakin University
-<details><summary>*2018-ongoing*</summary>
+### eResearch Analyst, Deakin University - Intersect Australia
+<details><summary>**2018-ongoing**</summary>
 <p>
 
 I am currently based at UNE in this role, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst based in the Research Services Directorate, to carry out this role effectively, I work collaboratively with the University Library and the IT Directorate, as well as the faculties.
-
 </p>
 </details>
 
-
-
-
-
-### eResearch Analyst, Intersect Australia-University of New England
-*2016-2018*
+### eResearch Analyst, University of New England - Intersect Australia
+<details><summary>**2016-2018**</summary>
+<p>
 
 I am currently based at UNE in this role, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst based in the Research Services Directorate, to carry out this role effectively, I work collaboratively with the University Library and the IT Directorate, as well as the faculties.
 
@@ -51,16 +47,25 @@ I have included a selection of activities below:
 #### Research Project Consultancies
 * Providing eResearch support to an ARC Discovery Project in digital musicology led by Dr Jason Stoessel since 2016. I also supported the successful application for a successive ARC Discovery grant awarded to Dr Stoessel and his colleague, Dr Denis Collins (UQ). My work in this project has involved leading the migration and formatting ~5,000 data records from a FileMaker Pro database into an open source online database repository called Muscat using database techniques; scripting [bug fixes in Python and SQL](https://github.com/IntersectAustralia/muscat-join-script); and project management. A staging version of the [Canonic Techniques website](https://canons-staging.intersect.org.au/catalog) is now live.
 * In 2016-17, I initiated and led the [Ngan'gi Language Collection Enhancement](https://projects.ands.org.au/id/CEP13) project for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements; managing the execution of the project from start to finish; and coordinating user acceptance testing, content migration and training. A/Prof Reid and I [presented the project](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/) at the 2017 eResearch Australasia conference.
-
+</p>
+</details>
 
 ## Select other experience
-**Corporate Communications Officer (2015-2016), UNE**
+<details><summary>**Corporate Communications Officer (2015-2016), UNE**</summary>
+<p>
 
 In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets.
 
-**Unit Coordinator, Lecturer and Tutor (*casual contract*, 2011-2015), UNE**
+</p>
+<details>
+
+<details><summary>**Unit Coordinator, Lecturer and Tutor (*casual contract*, 2011-2015), UNE**</summary>
+<p>
 
 I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace and Conflict Studies and Education, teaching face-to-face and online (Moodle).
+
+</p>
+<details>
 
 **Research Fellow (2014), Institute of Conflict Transformation and Social Justice, Queen's University (Belfast)**
 
