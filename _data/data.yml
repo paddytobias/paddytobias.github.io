@@ -14,10 +14,8 @@ skills:
           name: GitHub and version control
           level: "width:650px;"
         - skill:
-          name: Bash, grep, sed
-          level: "width:300px;"
+          name: Bash and Unix, grep, sed
+          level: "width:500px;"
         - skill:
           name: Qualtrics
           level: "width:560px;"
-  
-
