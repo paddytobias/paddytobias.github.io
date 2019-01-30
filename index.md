@@ -49,16 +49,16 @@ I have included a selection of activities below:
 <li>Since August 2016 I have chaired the University's [eResearch Committee](http://www.une.edu.au/research/digital-research-support/eresearch-committee), a committee sponsored by the DVCR, since August 2016, established to advance the university's eResearch services. As chair, I have led the investigation of various university eResearch capabilities; overseen the committee's restructure and renewal; and reported to the University Research Committee and the DVCR as required.</li>
 <li>Initiating and leading a year-long, university-wide Research Data Management project. This project functioned to build awareness amongst researchers of university services including the institutional cloud storage platform, [Cloud.UNE](https://cloud.une.edu.au); positively affect cultural change with regard to research data management; streamline inter-department workflows and advocate for further investment into infrastructure capabilities; and automate weekly reports on UNE researchers' usage of Cloud.UNE. The [latest report](https://goo.gl/pykM7P) indicates how successful this project has been in increasing researchers' usage of Cloud.UNE.</li>
 <li>Member of a team establishing a Researcher Support Network at UNE, to support researcher support staff to carry out their roles effectively. ReSuN is intended to open communication channels between faculty-based staff and central services staff.</li>
-<li>Earlier this year I conducted a [web-scraping and text analysis project](https://github.com/paddytobias/eResearchImpactEngagement) to support UNE's preparation for the Research Engagement and Impact assessment, using 2014 submissions to the UK REF Impact assessment.</li>
+<li>Earlier this year I conducted a [web-scraping and text analysis project](https://github.com/paddytobias/eResearchImpactEngagement) to support UNE's preparation for the Research Engagement and Impact assessment, using 2014 submissions to the UK REF Impact assessment.</li></p>
 
-#### Research Project Consultancies
-* Providing eResearch support to an ARC Discovery Project in digital musicology led by Dr Jason Stoessel since 2016. I also supported the successful application for a successive ARC Discovery grant awarded to Dr Stoessel and his colleague, Dr Denis Collins (UQ). My work in this project has involved leading the migration and formatting ~5,000 data records from a FileMaker Pro database into an open source online database repository called Muscat using database techniques; scripting [bug fixes in Python and SQL](https://github.com/IntersectAustralia/muscat-join-script); and project management. A staging version of the [Canonic Techniques website](https://canons-staging.intersect.org.au/catalog) is now live.
-* In 2016-17, I initiated and led the [Ngan'gi Language Collection Enhancement](https://projects.ands.org.au/id/CEP13) project for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements; managing the execution of the project from start to finish; and coordinating user acceptance testing, content migration and training. A/Prof Reid and I [presented the project](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/) at the 2017 eResearch Australasia conference.
+<p><b>Research Project Consultancies</b></p>
+<li>Providing eResearch support to an ARC Discovery Project in digital musicology led by Dr Jason Stoessel since 2016. I also supported the successful application for a successive ARC Discovery grant awarded to Dr Stoessel and his colleague, Dr Denis Collins (UQ). My work in this project has involved leading the migration and formatting ~5,000 data records from a FileMaker Pro database into an open source online database repository called Muscat using database techniques; scripting [bug fixes in Python and SQL](https://github.com/IntersectAustralia/muscat-join-script); and project management. A staging version of the [Canonic Techniques website](https://canons-staging.intersect.org.au/catalog) is now live.</li>
+<li>In 2016-17, I initiated and led the [Ngan'gi Language Collection Enhancement](https://projects.ands.org.au/id/CEP13) project for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements; managing the execution of the project from start to finish; and coordinating user acceptance testing, content migration and training. A/Prof Reid and I [presented the project](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/) at the 2017 eResearch Australasia conference.</li>
 </p>
 </details>
 
 ## Select other experience
-<details><summary>**Corporate Communications Officer (2015-2016), UNE**</summary>
+<details><summary><em>Corporate Communications Officer (2015-2016), UNE</em></summary>
 <p>
 
 In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets.
@@ -66,7 +66,7 @@ In this position I reported to the Office of the Vice Chancellor and spearheaded
 </p>
 </details>
 
-<details><summary>**Unit Coordinator, Lecturer and Tutor (*casual contract*, 2011-2015), UNE**</summary>
+<details><summary><em>Unit Coordinator, Lecturer and Tutor (*casual contract*, 2011-2015), UNE</em></summary>
 <p>
 
 I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace and Conflict Studies and Education, teaching face-to-face and online (Moodle).
@@ -74,9 +74,9 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 </p>
 </details>
 
-**Research Fellow (2014), Institute of Conflict Transformation and Social Justice, Queen's University (Belfast)**
+_Research Fellow (2014), Institute of Conflict Transformation and Social Justice, Queen's University (Belfast)_
 
-**Lead Consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste, [Search for Common Ground (Washington)](https://www.sfcg.org/)**
+_Lead Consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste, [Search for Common Ground (Washington)](https://www.sfcg.org/)_
 
 
 ---
@@ -85,10 +85,10 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 **Ph.D**, *Cum laude*. University of New England, 2010-2015
 
 
-**M.DataScience**. University of New England, 2018-*ongoing*
+**M.Data Science**. University of New England, 2018-*ongoing*
 
 
-**B.IntRelations**, *Distinction*. Deakin University, 2007-2009
+**B.International Relations**, *Distinction*. Deakin University, 2007-2009
 
 
 ### Other qualifications
