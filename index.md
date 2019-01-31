@@ -82,7 +82,7 @@ _Lead Monitoring & Evaluation Consultant (2013)_, Women’s Empowerment and Acce
 
 ---
 
-## Selected Publications
+## Selected Professional Publications
 1. Tobias, P. 2018. [eventbriteR](https://github.com/paddytobias/eventbriteR). A package for R that can call the Eventbrite API for event, order and user information.
 2. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables in Muscat.
 3. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
@@ -107,8 +107,3 @@ Dr Jonathan Arthur
 **National Services Manager**,
 Intersect Australia
 [jonathan@intersect.org.au](mailto:jonathan@intersect.org.au) | [+614 309 690 502](tel:+61-4309690502)
-
-Dr Eliza Kent
-**Deputy Director, Graduate Studies**,
-University of New England
-[ekent@une.edu.au](mailto:ekent@une.edu.au) | [[+612 6773 3715](tel:+61-267733715)
