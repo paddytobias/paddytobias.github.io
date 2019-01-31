@@ -9,13 +9,13 @@ skills:
           level: "width:500px;"
         - skill:
           name: SQL (SQLite, Oracle, Postgres and MySQL) and database design
-          level: "width:610px;"
+          level: "width:580px;"
         - skill:
           name: GitHub and version control
-          level: "width:650px;"
+          level: "width:600px;"
         - skill:
-          name: Bash and Unix, grep, sed
-          level: "width:500px;"
+          name: Bash, grep, sed
+          level: "width:450px;"
         - skill:
           name: Qualtrics
-          level: "width:560px;"
+          level: "width:620px;"
