@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin University, Melbourne. I have been in this role for almost three years, two and half of which was based at the University of New England, Armidale (NSW). I moved to Armidale from Melbourne in 2010 for PhD in the inter-disciplinary field of peace and conflict studies. My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/).
+Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin University, Melbourne. I have been in this role for almost three years, two and half of which was based at the University of New England, Armidale (NSW). I moved to Armidale from Melbourne in 2010 for PhD in the inter-disciplinary field of peace and conflict studies, and I now find myself back in Melbourne. My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/).
 
 [Read more about me here...](resume/about)
 
