@@ -82,10 +82,12 @@ _Lead Monitoring & Evaluation Consultant (2013)_, Women’s Empowerment and Acce
 ---
 
 ## Selected Professional Publications
-1. Tobias, P. 2018. [eventbriteR](https://github.com/paddytobias/eventbriteR). A package for R that can call the Eventbrite API for event, order and user information.
-2. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables in Muscat.
-3. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
-4. Reeson, R & P Tobias, 2017, 'Working towards the “end-to-end”: Research Data Management Capability Development at UNE', [eResearch Australasia](https://conference.eresearch.edu.au/2017/09/working-towards-the-end-to-end-research-data-management-capability-development-at-une/), Brisbane
+1. 2018. [Surveying with Qualtrics](https://intersectaustralia.github.io/training/QLTRICS101/). An introductory course for researchers.
+
+2. Tobias, P. 2018. [eventbriteR](https://github.com/paddytobias/eventbriteR). A package for R that can call the Eventbrite API for event, order and user information.
+3. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables in Muscat.
+4. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
+5. Reeson, R & P Tobias, 2017, 'Working towards the “end-to-end”: Research Data Management Capability Development at UNE', [eResearch Australasia](https://conference.eresearch.edu.au/2017/09/working-towards-the-end-to-end-research-data-management-capability-development-at-une/), Brisbane
 
 #### Academic Publications
 1. Tobias, P. 2017, ‘Truth and Reconciliation in Timor-Leste: Some reflections ten years on’, in Reconciliation in conflict affected communities: Experiences and insights from the Asia-Pacific, Springer.
