@@ -33,6 +33,7 @@ Currently working with a researcher to harvest and analyse Twitter data. I have 
 </details>
 
 
+## Selected other experience
 ### eResearch Analyst, University of New England - Intersect Australia
 <em>2016-2018</em>
 
@@ -50,7 +51,6 @@ Previously based at UNE, reporting to the Deputy Vice Chancellor - Research (DVC
 <li>In 2016-17, I initiated and led the <a href="https://projects.ands.org.au/id/CEP13">Ngan'gi Language Collection Enhancement project</a> for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements; managing the execution of the project from start to finish; and coordinating user acceptance testing, content migration and training. A/Prof Reid and I <a href="https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/">presented the project</a> at the 2017 eResearch Australasia conference.</li>
 </details>
 
-## Selected other experience
 <em>Corporate Communications Officer (2015-2016)</em>, UNE
 
 In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets.
