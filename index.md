@@ -51,17 +51,21 @@ Previously based at UNE, reporting to the Deputy Vice Chancellor - Research (DVC
 <li>In 2016-17, I initiated and led the <a href="https://projects.ands.org.au/id/CEP13">Ngan'gi Language Collection Enhancement project</a> for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements; managing the execution of the project from start to finish; and coordinating user acceptance testing, content migration and training. A/Prof Reid and I <a href="https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/">presented the project</a> at the 2017 eResearch Australasia conference.</li>
 </details>
 
-<em>Corporate Communications Officer (2015-2016)</em>, UNE
+### Corporate Communications Officer, UNE
+<em>2015-2016</em>
 
 In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets.
 
-<em>Unit Coordinator, Lecturer and Tutor (casual contracts, 2011-2015)</em>, UNE
+### Unit Coordinator, Lecturer and Tutor, UNE
+<em>casual contracts, 2011-2015</em>
 
 I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace and Conflict Studies and Education, teaching face-to-face and online (Moodle).
 
-_Research Fellow (2014)_, Institute of Conflict Transformation and Social Justice, Queen's University (Belfast)
+### Research Fellow, Institute of Conflict Transformation and Social Justice, Queen's University (Belfast)
+<em>2014</em>
 
-_Lead Monitoring & Evaluation Consultant (2013)_, Women’s Empowerment and Access to Justice project in Timor-Leste, [Search for Common Ground (Washington)](https://www.sfcg.org/)
+### Lead Monitoring & Evaluation Consultant, Women’s Empowerment and Access to Justice project in Timor-Leste, Search for Common Ground (Washington)
+<em>2013</em>
 
 ---
 
