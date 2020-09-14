@@ -15,10 +15,17 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin 
 
 ## Current Position
 
-### eResearch Analyst, Deakin University - Intersect Australia
-<em>2018-ongoing</em>
 
-I am currently based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role is to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
+### Senior Data Scientist, the Social Research Centre
+<em>2019-ongoing<em>
+
+I work on the Major Projects team for the SRC. Our main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment.
+
+
+### eResearch Analyst, Deakin University - Intersect Australia
+<em>2018-2019</em>
+
+Based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role is to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
 
 <details><summary><b>Click</b> to see a selection of activities</summary>
 <p>

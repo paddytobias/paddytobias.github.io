@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="../photo.jpg">
 
-Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin University, Melbourne. I have been in this role for almost three years, two and half of which was based at the University of New England, Armidale (NSW). I moved to Armidale from Melbourne in 2010 for PhD in the inter-disciplinary field of peace and conflict studies, and I now find myself back in Melbourne. My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/).
+Hi! I am a senior data scientist at the Social Research Centre working on the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education. My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/).
 
 My academic research training is in Sociology, Political Science and International Relations, with a particular focus on Peace and Conflict Studies. Whilst my research background is somewhat unusual for my current role as an eResearch Analyst, I bring a number of years of academic and industry research and engagement experience.
 
