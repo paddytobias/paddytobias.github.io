@@ -19,7 +19,7 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at Deakin 
 ### Senior Data Scientist, the Social Research Centre
 <em>2019-ongoing<em>
 
-I work on the Major Projects team for the SRC. Our main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment. I started as a data scientist in 2019 and was promoted to senior data scientist in early 2020. 
+I work on the Major Projects team for the SRC. Our main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment. I started as a data scientist in 2019 and was promoted in early 2020. 
 
 ## Selected other experience
 
