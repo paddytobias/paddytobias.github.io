@@ -2,10 +2,10 @@ skills:
     title: Skills
     skills:
         - skill:
-          name: R (RStudio)
+          name: R, RStudio, Shiny
           level: "width:650px;"
         - skill:
-          name: Python
+          name: Python 2 and 3
           level: "width:500px;"
         - skill:
           name: SQL (SQLite, Oracle, Postgres and MySQL) and database design
