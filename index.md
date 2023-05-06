@@ -7,7 +7,9 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am a senior data scientist at the Social Research Centre working on the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education. My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/).
+Hi! I am the data science manager at the Social Research Centre. I am passionate about deploying data science in a research context. 
+
+My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/).
 
 [Read more about me here...](https://paddytobias.github.io/resume/about/)
 
@@ -15,11 +17,29 @@ Hi! I am a senior data scientist at the Social Research Centre working on the Qu
 
 ## Current Position
 
+### Data Science Manager and Technical Lead, The Social Research Centre
+<em>2021-present</em>
 
-### Senior Data Scientist, the Social Research Centre
-<em>2019-ongoing<em>
+- From 2021-2022 I managed a team of data scientists and engineers to support the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education.
+- In 2022 I was promoted to manage data science at the SRC, overseeing 18 staff, working under the [Senior Director of Data Science, Cynthia Kim](https://srcentre.com.au/employees/cynthia-kim).
+- In this role I currently drive a development agenda to build efficiencies and scalability in data management and processing, including implementing new tools and technologies to improve data quality and readiness.
 
-I work on the Major Projects team for the SRC. Our main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment. I started as a data scientist in 2019 and was promoted in early 2020. 
+<details><summary><b>Click</b> to see a selection of activities</summary>
+
+- I collaborate with teams across the business to design and implement data pipelines and workflows for various projects.
+- I provide consultation and advice to researchers on data and software management techniques.
+- At the moment I am specifically working on rebuilding the data warehouse and data workflows supporting SRC's unique [Life in Australia study](https://srcentre.com.au/our-research/life-in-australia-study).
+
+</details>
+
+
+### Senior Data Scientist, The Social Research Centre
+<em>2019-2021</em>
+
+- As senior data scientist, I worked on the Major Projects team for the SRC. 
+- The main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment. 
+- QILT is a longitudinal study into student experience and outcomes of high education students in Australia, which has been running for over ten years.
+- I started as a data scientist in 2019 and was promoted in early 2020. 
 
 ## Selected other experience
 
