@@ -1,21 +1,21 @@
 skills:
-    title: Skills
+    title: Programming skills
     skills:
         - skill:
           name: R, RStudio, Shiny
-          level: "width:650px;"
+          level: "width:95%;"
         - skill:
           name: Python 2 and 3
-          level: "width:500px;"
+          level: "width:70%;"
         - skill:
           name: SQL (SQLite, Oracle, Postgres and MySQL) and database design
-          level: "width:580px;"
+          level: "width:85%;"
         - skill:
-          name: GitHub and version control
-          level: "width:600px;"
+          name: Git, GitHub and version control
+          level: "width:100%;"
         - skill:
           name: Bash, grep, sed
-          level: "width:450px;"
+          level: "width:50%;"
         - skill:
-          name: Qualtrics
-          level: "width:620px;"
+          name: Javascript
+          level: "width:50%"

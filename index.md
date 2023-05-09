@@ -7,9 +7,9 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am the data science manager at the Social Research Centre. I am passionate about deploying data science in a research context. 
+Hi! 
 
-My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/).
+I am the data science manager and technical lead at the Social Research Centre. I am passionate about deploying and scaling up data science solutions in a research context. 
 
 [Read more about me here...](https://paddytobias.github.io/resume/about/)
 
@@ -17,53 +17,56 @@ My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste]
 
 ## Current Position
 
-### Data Science Manager and Technical Lead, The Social Research Centre
+### Data Science Manager and Technical Lead - The Social Research Centre
 <em>2021-present</em>
 
-- From 2021-2022 I managed a team of data scientists and engineers to support the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education.
-- In 2022 I was promoted to manage data science at the SRC, overseeing 18 staff, working under the [Senior Director of Data Science, Cynthia Kim](https://srcentre.com.au/employees/cynthia-kim).
-- In this role I currently drive a development agenda to build efficiencies and scalability in data management and processing, including implementing new tools and technologies to improve data quality and readiness.
+- From 2021-2022 I managed a team of eight data scientists and engineers to support the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education. QILT is very complex with a number of parallel end-to-end processes.
+- In 2022 I became the manager of data science at the SRC, overseeing 18 staff and up to 20 projects at any one time. I work under the [Senior Director of Data Science, Cynthia Kim](https://srcentre.com.au/employees/cynthia-kim).
+- In this role I currently drive a development agenda to build efficiencies and scalability in data management and processing for the SRC, including implementing new tools and technologies to improve data quality and readiness.
 
-<details><summary><b>Click</b> to see a selection of activities</summary>
+<details>
+    <summary>
+    <b>Click</b> to see a selection of activities
+    </summary>
 
-- I collaborate with teams across the business to design and implement data pipelines and workflows for various projects.
-- I provide consultation and advice to researchers on data and software management techniques.
-- At the moment I am specifically working on rebuilding the data warehouse and data workflows supporting SRC's unique [Life in Australia study](https://srcentre.com.au/our-research/life-in-australia-study).
+- I collaborate with teams across the company to design and implement data pipelines and workflows for various projects.
+- I continually provide consultation and advice to researchers and business leaders on data and software management techniques.
+- One notable project I'm working on at the moment is the SRC's unique project, [Life in Australia study](https://srcentre.com.au/our-research/life-in-australia-study). Specifically my role is to help rebuild the data warehouse backend and associated workflows. This is a six month project, expected to complete in June 2023.
 
 </details>
 
 
-### Senior Data Scientist, The Social Research Centre
+### Senior Data Scientist - The Social Research Centre
 <em>2019-2021</em>
 
 - As senior data scientist, I worked on the Major Projects team for the SRC. 
 - The main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment. 
 - QILT is a longitudinal study into student experience and outcomes of high education students in Australia, which has been running for over ten years.
-- I started as a data scientist in 2019 and was promoted in early 2020. 
+- I started as a data scientist in 2019 and was promoted to a senior position less than a year later. 
 
 ## Selected other experience
 
 ### eResearch Analyst, Deakin University - Intersect Australia
 <em>2018-2019</em>
 
-Based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role is to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
+Based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role was to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
 
 <details><summary><b>Click</b> to see a selection of activities</summary>
 <p>
 <b>Education & Training</b></p>
-<li>I currently coordinate Intersect's training program at Deakin, delivering the programming, data science and data management courses on campus. A colleague and I deliver all the training at Deakin. We are planning to deliver +40 courses in 2019.</li>
-<li>Over the past two years I have worked to improve the experience of participants inside and outside of the courses, through building up a network of interested researchers and systematically notifying them when courses become available. I have found that this has built a community of researchers interested in upskilling, which has facilitated peer-to-peer learning.</li>
-<li>I regularly present to HDRs, post-doctoral fellows and academics on data and software management techniques, eResearch capabilities, and help researchers in their projects through consultation and advice.</li>
+<li>I coordinated Intersect's training program at Deakin, delivering the programming, data science and data management courses on campus. A colleague and I deliver all the training at Deakin. We delivered +40 courses in 2019.</li>
+<li>I worked to improve the experience of participants inside and outside of the courses, building up a network of interested researchers and systematically notifying them when courses become available. I have found that this has built a community of researchers interested in upskilling, which has facilitated peer-to-peer learning.</li>
+<li>I regularly presented to HDRs, post-doctoral fellows and academics on data and software management techniques, eResearch capabilities, and help researchers in their projects through consultation and advice.</li>
 <p><b>Research Project Consultancies</b></p>
 <p>
-Currently working with a researcher to harvest and analyse Twitter data. I have developed him a Twitter scraper and am now helping him to conduct natural language processing to interpret the text data. 
+Worked with a researcher to harvest and analyse Twitter data. I have developed him a Twitter scraper and am now helping him to conduct natural language processing to interpret the text data. 
 </p>
 </details>
 
 ### eResearch Analyst, University of New England - Intersect Australia
 <em>2016-2018</em>
 
-Previously based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst located in the Research Services Directorate, to carry out this role effectively, I worked collaboratively with the University Library and the IT Directorate, as well as the faculties.
+Based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst located in the Research Services Directorate, to carry out this role effectively, I worked collaboratively with the University Library and the IT Directorate, as well as the faculties.
 
 <details><summary><b>Click</b> to see a selection of activities</summary>
 <p><b>Strategic Initiatives</b></p>
@@ -76,16 +79,6 @@ Previously based at UNE, reporting to the Deputy Vice Chancellor - Research (DVC
 <li>Providing eResearch support to an ARC Discovery Project in digital musicology led by Dr Jason Stoessel since 2016. I also supported the successful application for a successive ARC Discovery grant awarded to Dr Stoessel and his colleague, Dr Denis Collins (UQ). My work in this project involved leading the migration and formatting ~9,000 data records from a FileMaker Pro database into an open source online database repository called Muscat using database techniques; scripting <a href="https://github.com/IntersectAustralia/muscat-join-script">bug fixes in Python and SQL</a>; and project management. <a href="https://www.canons.org.au/catalog">Canonic Techniques website</a> is now live.</li>
 <li>In 2016-17, I initiated and led the <a href="https://projects.ands.org.au/id/CEP13">Ngan'gi Language Collection Enhancement project</a> for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements; managing the execution of the project from start to finish; and coordinating user acceptance testing, content migration and training. A/Prof Reid and I <a href="https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/">presented the project</a> at the 2017 eResearch Australasia conference.</li>
 </details>
-
-### Corporate Communications Officer, UNE
-<em>2015-2016</em>
-
-In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university as well as handling relationships with media outlets.
-
-### Unit Coordinator, Lecturer and Tutor, UNE
-<em>casual contracts, 2011-2015</em>
-
-I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace and Conflict Studies and Education, teaching face-to-face and online (Moodle).
 
 ### Research Fellow, Institute of Conflict Transformation and Social Justice, Queen's University (Belfast)
 <em>2014</em>
@@ -134,12 +127,5 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 ---
 
 ## References
-Prof Heiko Daniel
-**Deputy Vice Chancellor - Research**,
-University of New England
-[hdaniel@une.edu.au](mailto:dvcr@une.edu.au) | [+612 6773 2080](tel:+61-267732080)
 
-Dr Jonathan Arthur
-**National Services Manager**,
-Intersect Australia
-[jonathan@intersect.org.au](mailto:jonathan@intersect.org.au) | [+614 309 690 502](tel:+61-4309690502)
+Provided on request.
