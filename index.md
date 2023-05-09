@@ -20,9 +20,11 @@ I am the data science manager and technical lead at the Social Research Centre. 
 ### Data Science Manager and Technical Lead - The Social Research Centre
 <em>2021-present</em>
 
-- From 2021-2022 I managed a team of eight data scientists and engineers to support the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education. QILT is very complex with a number of parallel end-to-end processes.
-- In 2022 I became the manager of data science at the SRC, overseeing 18 staff and up to 20 projects at any one time. I work under the [Senior Director of Data Science, Cynthia Kim](https://srcentre.com.au/employees/cynthia-kim).
-- In this role I currently drive a development agenda to build efficiencies and scalability in data management and processing for the SRC, including implementing new tools and technologies to improve data quality and readiness.
+<p>From 2021-2022 I managed a team of eight data scientists and engineers to support the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education. QILT is very complex with a number of parallel end-to-end processes.</p>
+
+<p>In 2022 I became the manager of data science at the SRC, overseeing 18 staff and up to 20 projects at any one time. I work under the [Senior Director of Data Science, Cynthia Kim](https://srcentre.com.au/employees/cynthia-kim).</p>
+
+<p>In this role I currently drive a development agenda to build efficiencies and scalability in data management and processing for the SRC, including implementing new tools and technologies to improve data quality and readiness.</p>
 
 <details>
     <summary><b>Click</b> to see a selection of activities</summary>
@@ -36,10 +38,11 @@ I am the data science manager and technical lead at the Social Research Centre. 
 ### Senior Data Scientist - The Social Research Centre
 <em>2019-2021</em>
 <p></p>
-<li>As senior data scientist, I worked on the Major Projects team for the SRC.</li>
-<li>The main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment.</li>
-<li>QILT is a longitudinal study into student experience and outcomes of high education students in Australia, which has been running for over ten years.</li>
-<li>I started as a data scientist in 2019 and was promoted to a senior position less than a year later.</li>
+
+<p>As senior data scientist, I worked on the Major Projects team for the SRC.
+The main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment.</p>
+<p>QILT is a longitudinal study into student experience and outcomes of high education students in Australia, which has been running for over ten years.</p>
+<p>I started as a data scientist in 2019 and was promoted to a senior position less than a year later.</p>
 
 ## Selected other experience
 
