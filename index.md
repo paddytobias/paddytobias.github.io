@@ -105,7 +105,10 @@ I have held various short-term academic contracts in Sociology, Political Scienc
 **B.International Relations**, *Distinction*. Deakin University, 2007-2009
 
 
-### Other qualifications
+### Other training
+
+[Advanced R Shiny](https://www.epi-interactive.com/events/r-shiny-masterclass-series-2022/#advanced), 2022
+
 [Software Carpentry instructor](https://software-carpentry.org/) accreditation, 2018
 
 ---

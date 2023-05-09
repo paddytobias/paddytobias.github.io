@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="../photo.jpg">
 
-Hi! I am a senior data scientist at the Social Research Centre working on the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education. My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/).
+I am the data science manager at the Social Research Centre. I am passionate about deploying data science in a research context. 
 
 My academic research training is in Sociology, Political Science and International Relations, with a particular focus on Peace and Conflict Studies. Whilst my research background is somewhat unusual for my current role as an eResearch Analyst, I bring a number of years of academic and industry research and engagement experience.
 
