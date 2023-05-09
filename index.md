@@ -25,24 +25,21 @@ I am the data science manager and technical lead at the Social Research Centre. 
 - In this role I currently drive a development agenda to build efficiencies and scalability in data management and processing for the SRC, including implementing new tools and technologies to improve data quality and readiness.
 
 <details>
-    <summary>
-    <b>Click</b> to see a selection of activities
-    </summary>
-
-- I collaborate with teams across the company to design and implement data pipelines and workflows for various projects.
-- I continually provide consultation and advice to researchers and business leaders on data and software management techniques.
-- One notable project I'm working on at the moment is the SRC's unique project, [Life in Australia study](https://srcentre.com.au/our-research/life-in-australia-study). Specifically my role is to help rebuild the data warehouse backend and associated workflows. This is a six month project, expected to complete in June 2023.
-
+    <summary><b>Click</b> to see a selection of activities</summary>
+    <p></p>
+    <li>I collaborate with teams across the company to design and implement data pipelines and workflows for various projects.</li>
+    <li>I continually provide consultation and advice to researchers and business leaders on data and software management techniques.</li>
+    <li>One notable project I'm working on at the moment is the SRC's unique project, [Life in Australia study](https://srcentre.com.au/our-research/life-in-australia-study). Specifically my role is to help rebuild the data warehouse backend and associated workflows. This is a six month project, expected to complete in June 2023.</li>
 </details>
 
 
 ### Senior Data Scientist - The Social Research Centre
 <em>2019-2021</em>
-
-- As senior data scientist, I worked on the Major Projects team for the SRC. 
-- The main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment. 
-- QILT is a longitudinal study into student experience and outcomes of high education students in Australia, which has been running for over ten years.
-- I started as a data scientist in 2019 and was promoted to a senior position less than a year later. 
+<p></p>
+<li>As senior data scientist, I worked on the Major Projects team for the SRC.</li>
+<li>The main focus is the [QILT](https://www.qilt.edu.au/) project for the Australian Government Department of Education, Skills and Employment.</li>
+<li>QILT is a longitudinal study into student experience and outcomes of high education students in Australia, which has been running for over ten years.</li>
+<li>I started as a data scientist in 2019 and was promoted to a senior position less than a year later.</li>
 
 ## Selected other experience
 
@@ -51,7 +48,8 @@ I am the data science manager and technical lead at the Social Research Centre. 
 
 Based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role was to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
 
-<details><summary><b>Click</b> to see a selection of activities</summary>
+<details>
+<summary><b>Click</b> to see a selection of activities</summary>
 <p>
 <b>Education & Training</b></p>
 <li>I coordinated Intersect's training program at Deakin, delivering the programming, data science and data management courses on campus. A colleague and I deliver all the training at Deakin. We delivered +40 courses in 2019.</li>
