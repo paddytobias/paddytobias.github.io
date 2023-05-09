@@ -1,6 +1,6 @@
 title: Dr Paddy Tobias
 url: "https://paddytobias.github.io"
-baseurl: "/resume"
+baseurl: "/"
 
 markdown: kramdown
 
@@ -8,7 +8,7 @@ tracking_id: UA-120932006-1
 
 footer: yes
 footer_url: "mailto:paddytobias@me.com"
-footer_text: "<center><p>paddytobias.github.io/resume</p><p>paddytobias@me.com</p><p>0403 328 864</p></center>"
+footer_text: "<center><p>paddytobias.github.io</p><p>paddytobias@me.com</p></center>"
 
 sass:
     style: compressed
