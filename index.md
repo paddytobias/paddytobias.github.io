@@ -101,9 +101,12 @@ Based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. H
 
 ### Other training
 
+
 [Advanced R Shiny](https://www.epi-interactive.com/events/r-shiny-masterclass-series-2022/#advanced), 2022
 
 [Software Carpentry instructor](https://software-carpentry.org/) accreditation, 2018
+
+
 
 ---
 
