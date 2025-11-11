@@ -20,25 +20,25 @@ I am the data science manager and technical lead at the Social Research Centre. 
 ### DataOps Manager - The Social Research Centre
 <em>2024-present</em>
 
-<p>I lead the SRC’s unified Analyst Services and Data Science divisions, covering the full data lifecycle across significant complex, high-stakes research programs. I set technical strategy and drive a multi‑year uplift in enterprise data maturity: modernising governance, automating ingestion and curation, and embedding AI/ML accelerators into production workflows. I architect scalable, versioned codebases (R / Python / SQL) with CI/CD, dependency management and telemetry to ensure durability, auditability and rapid innovation. I champion standards for metadata, quality monitoring, privacy-preserving linkage and semantic documentation to reduce cycle time and elevate insight fidelity.</p>
+<p>I lead the SRC’s unified Analyst Services and Data Science divisions within the team of Data Operations. Our team covers the full data lifecycle across significant complex, high-stakes research programs. In my role I set technical strategy and drive a multi‑year plan to improve the organisation's data capability. This includes initiatives to modernise governance, automate ingestion and curation, and embedding AI/ML accelerators into production workflows. On a more technical level, I also architect scalable, versioned codebases (R / Python / SQL) with CI/CD, dependency management and unit testing to ensure durability, auditability and rapid innovation. A key part of my day-to-day job is to champion data standards, quality control, privacy protection measures and (everyone's favourite!) documentation.</p>
 
 <h4>Core focus areas</h4>
 <ul>
-    <li><strong>Strategic roadmap:</strong> platform consolidation, data contracts, event‑driven pipelines, governance KPIs</li>
-    <li><strong>Engineering excellence:</strong> modular package ecosystems, test coverage expansion, containerised execution, automated lineage</li>
-    <li><strong>Operational resilience:</strong> incident playbooks, SLAs, performance observability, secured credential flows</li>
+    <li><strong>Strategic roadmap:</strong> platform consolidation, building standards, event‑driven pipelines, governance KPIs</li>
+    <li><strong>Engineering excellence:</strong> modular package ecosystems, test coverage expansion, automated lineage</li>
+    <li><strong>Operational resilience:</strong> performance observability, secured credential flows</li>
     <li><strong>Talent development:</strong> capability matrices, technical guilds, paired architecture reviews</li>
 </ul>
 
 <h4>Impact highlights</h4>
 <ul>
-    <li>Reduced end‑to‑end processing times via orchestration and parallelisation</li>
-    <li>Improving data trust with continuous validation, schema enforcement and drift alerts</li>
-    <li>Increased reuse and interoperability through standardised interfaces and documented patterns</li>
-    <li>Accelerated delivery of client insights by embedding scalable analytical components</li>
+    <li>Reduced end‑to‑end processing times via orchestration</li>
+    <li>Improved data confidence with continuous validation, schema enforcement and drift alerts</li>
+    <li>Increased reuse and interoperability through standardised, documented processes</li>
+    <li>Accelerated delivery of client insights</li>
 </ul>
 
-<p><em>Mission:</em> build a future‑ready, AI‑enabled, standards‑driven data capability that compounds value across every SRC project.</p>
+<p><em>Mission:</em> build a future‑ready, AI‑enabled, standards‑driven data capability that all SRC projects can benefit from.</p>
 
 ### Data Science Manager and Technical Lead - The Social Research Centre
 <em>2021-2024</em>
