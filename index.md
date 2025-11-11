@@ -17,12 +17,35 @@ I am the data science manager and technical lead at the Social Research Centre. 
 
 ## Current Position
 
+### DataOps Manager - The Social Research Centre
+<em>2024-present</em>
+
+<p>I lead the SRC’s unified Analyst Services and Data Science divisions, covering the full data lifecycle across significant complex, high-stakes research programs. I set technical strategy and drive a multi‑year uplift in enterprise data maturity: modernising governance, automating ingestion and curation, and embedding AI/ML accelerators into production workflows. I architect scalable, versioned codebases (R / Python / SQL) with CI/CD, dependency management and telemetry to ensure durability, auditability and rapid innovation. I champion standards for metadata, quality monitoring, privacy-preserving linkage and semantic documentation to reduce cycle time and elevate insight fidelity.</p>
+
+<h4>Core focus areas</h4>
+<ul>
+    <li><strong>Strategic roadmap:</strong> platform consolidation, data contracts, event‑driven pipelines, governance KPIs</li>
+    <li><strong>Engineering excellence:</strong> modular package ecosystems, test coverage expansion, containerised execution, automated lineage</li>
+    <li><strong>Operational resilience:</strong> incident playbooks, SLAs, performance observability, secured credential flows</li>
+    <li><strong>Talent development:</strong> capability matrices, technical guilds, paired architecture reviews</li>
+</ul>
+
+<h4>Impact highlights</h4>
+<ul>
+    <li>Reduced end‑to‑end processing times via orchestration and parallelisation</li>
+    <li>Improving data trust with continuous validation, schema enforcement and drift alerts</li>
+    <li>Increased reuse and interoperability through standardised interfaces and documented patterns</li>
+    <li>Accelerated delivery of client insights by embedding scalable analytical components</li>
+</ul>
+
+<p><em>Mission:</em> build a future‑ready, AI‑enabled, standards‑driven data capability that compounds value across every SRC project.</p>
+
 ### Data Science Manager and Technical Lead - The Social Research Centre
-<em>2021-present</em>
+<em>2021-2024</em>
 
 <p>From 2021-2022 I managed a team of eight data scientists and engineers to support the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education. QILT is very complex with a number of parallel end-to-end processes.</p>
 
-<p>In 2022 I became the manager of data science at the SRC, overseeing 18 staff and up to 20 projects at any one time. I work under the [Senior Director of Data Science, Cynthia Kim](https://srcentre.com.au/employees/cynthia-kim).</p>
+<p>In 2022 I became the manager of data science at the SRC, overseeing 18 staff and up to 20 projects at any one time.</p>
 
 <p>In this role I currently drive a development agenda to build efficiencies and scalability in data management and processing for the SRC, including implementing new tools and technologies to improve data quality and readiness.</p>
 

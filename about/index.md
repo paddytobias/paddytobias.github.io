@@ -11,7 +11,7 @@ I am the data science manager and technical lead at the Social Research Centre. 
 
 I have taken a slightly unusual path into this space. My original academic training is in political science and community development (with a PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/)), however since 2015 I have become increasingly immersed in the large-scale data world, captivated by the possibilities of fast-changing data technologies.
 
-You can find many of my projects on [GitHub](https://github.com/paddytobias)
+Most of my project sit behind a login of my organisation's account, however you can find many of my person projects on [GitHub](https://github.com/paddytobias)
 
 ## From my colleagues...
 
