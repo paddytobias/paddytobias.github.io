@@ -1,9 +1,12 @@
 skills:
-    title: Programming skills
+    title: Technical Skills
     skills:
         - skill:
-          name: R, RStudio, Shiny
-          level: "width:95%;"
+          name: R, Shiny app development, package development
+          level: "width:100%;"
+        - skill:
+          name: Databricks and Apache Spark (PySpark and SparkR)
+          level: "width:50%;"
         - skill:
           name: Python 2 and 3
           level: "width:70%;"
@@ -11,11 +14,11 @@ skills:
           name: SQL (SQLite, Oracle, Postgres and MySQL) and database design
           level: "width:85%;"
         - skill:
-          name: Git, GitHub and version control
+          name: Git, GitHub, CI/CD, GH Copilot, and version control standards
           level: "width:100%;"
         - skill:
           name: Bash, grep, sed
           level: "width:50%;"
         - skill:
           name: Javascript
-          level: "width:50%"
+          level: "width:60%"

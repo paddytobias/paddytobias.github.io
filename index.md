@@ -124,8 +124,11 @@ Based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. H
 
 ### Other training
 
+Databricks training, 2025
 
 [Advanced R Shiny](https://www.epi-interactive.com/events/r-shiny-masterclass-series-2022/#advanced), 2022
+
+R package development, 2020
 
 [Software Carpentry instructor](https://software-carpentry.org/) accreditation, 2018
 
