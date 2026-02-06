@@ -2,16 +2,16 @@
 layout: default
 ---
 
-
 ## About Me
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! 
+I am a senior data scientist and technical lead with over 10 years’ experience delivering complex survey analysis and evidence-based insights in public-sector and research environments. I specialise in applying advanced analytics using R and Python to large, longitudinal survey datasets to support system performance monitoring, policy development, and executive decision-making.
 
-I am the data science manager and technical lead at the Social Research Centre. I am passionate about deploying and scaling up data science solutions in a research context. 
+My background includes leading analytical projects end-to-end — from data quality assurance and methodology through to reporting, dashboards, and stakeholder briefings — with a strong focus on clarity, rigour, and data governance. I am experienced in working with external partners, managing competing priorities, and translating complex findings into clear, actionable insights for senior leaders and external stakeholders.
 
 [Read more about me here...](https://paddytobias.github.io/about/)
+
 
 ---
 
@@ -20,43 +20,30 @@ I am the data science manager and technical lead at the Social Research Centre. 
 ### DataOps Manager - The Social Research Centre
 <em>2024-present</em>
 
-<p>I lead the SRC’s unified Analyst Services and Data Science divisions within the team of Data Operations. Our team covers the full data lifecycle across significant complex, high-stakes research programs. In my role I set technical strategy and drive a multi‑year plan to improve the organisation's data capability. This includes initiatives to modernise governance, automate ingestion and curation, and embedding AI/ML accelerators into production workflows. On a more technical level, I also architect scalable, versioned codebases (R / Python / SQL) with CI/CD, dependency management and unit testing to ensure durability, auditability and rapid innovation. A key part of my day-to-day job is to champion data standards, quality control, privacy protection measures and (everyone's favourite!) documentation.</p>
+- Lead a team of 15 analysts and data scientists, covering the full data lifecycle of the SRC's projects.
+- Lead complex **survey analytics and data delivery** across multiple high-stakes, government-facing research programs, with hands-on responsibility for analytical quality, methodology, and reporting outputs.
+- Undertake and oversee **advanced analysis of large survey datasets** using R, Python, and SQL, supporting both routine reporting and bespoke analytical requests.
+- Translate complex analytical findings into **clear reports, briefings, and presentations** for internal executives, clients, and external stakeholders.
+- Provide technical leadership across a multidisciplinary team of analysts and data scientists, ensuring analytical consistency, quality assurance, and adherence to data governance standards.
+- Drive improvements in **survey data validation, schema enforcement, and reproducibility**, increasing confidence in published results and dashboards.
+- Work closely with project managers, suppliers, and stakeholders to support **survey operations, timelines, and delivery**.
+- Contribute directly to client research projects, acting as a senior analytical resource on survey design, data interpretation, and methodological risk.
 
-<h4>Core focus areas</h4>
+<h4>Relevant focus areas</h4>
 <ul>
-    <li><strong>Strategic roadmap:</strong> platform consolidation, building standards, event‑driven pipelines, governance KPIs</li>
-    <li><strong>Engineering excellence:</strong> modular package ecosystems, test coverage expansion, automated lineage</li>
-    <li><strong>Operational resilience:</strong> performance observability, secured credential flows</li>
-    <li><strong>Talent development:</strong> capability matrices, technical guilds, paired architecture reviews</li>
+  <li><strong>Survey analytics:</strong> longitudinal analysis, performance indicators, outcome measures</li>
+  <li><strong>Data quality assurance:</strong> validation frameworks, reproducible workflows, audit trails</li>
+  <li><strong>Reporting & briefing:</strong> executive-ready analysis, stakeholder presentations</li>
+  <li><strong>Governance & privacy:</strong> secure handling of sensitive survey data</li>
 </ul>
 
-<h4>Impact highlights</h4>
-<ul>
-    <li>Reduced end‑to‑end processing times via orchestration</li>
-    <li>Improved data confidence with continuous validation, schema enforcement and drift alerts</li>
-    <li>Increased reuse and interoperability through standardised, documented processes</li>
-    <li>Accelerated delivery of client insights</li>
-</ul>
+### Data Science Manager — The Social Research Centre
+<em>2021–2024</em>
 
-<p><em>Mission:</em> build a future‑ready, AI‑enabled, standards‑driven data capability that all SRC projects can benefit from.</p>
-
-### Data Science Manager and Technical Lead - The Social Research Centre
-<em>2021-2024</em>
-
-<p>From 2021-2022 I managed a team of eight data scientists and engineers to support the Quality Indicators for Learning and Teaching (QILT) project for the Commonwealth Department of Education. QILT is very complex with a number of parallel end-to-end processes.</p>
-
-<p>In 2022 I became the manager of data science at the SRC, overseeing 18 staff and up to 20 projects at any one time.</p>
-
-<p>In this role I currently drive a development agenda to build efficiencies and scalability in data management and processing for the SRC, including implementing new tools and technologies to improve data quality and readiness.</p>
-
-<details>
-    <summary><b>Click</b> to see a selection of activities</summary>
-    <p></p>
-    <li>I collaborate with teams across the company to design and implement data pipelines and workflows for various projects.</li>
-    <li>I continually provide consultation and advice to researchers and business leaders on data and software management techniques.</li>
-    <li>One notable project I'm working on at the moment is the SRC's unique project, [Life in Australia study](https://srcentre.com.au/our-research/life-in-australia-study). Specifically my role is to help rebuild the data warehouse backend and associated workflows. This is a six month project, expected to complete in June 2023.</li>
-</details>
-
+- Managed and contributed to analytical delivery for large-scale government survey programs, including the **Quality Indicators for Learning and Teaching (QILT)** project.
+- Led teams delivering **parallel end-to-end survey processes**, ensuring analytical accuracy, consistency, and on-time reporting.
+- Provided expert advice to researchers and senior stakeholders on **survey methodology, data interpretation, and analytical risk**.
+- Oversaw multiple concurrent analytical projects, balancing operational reporting with deeper exploratory and evaluative analysis.
 
 ### Senior Data Scientist - The Social Research Centre
 <em>2019-2021</em>
@@ -72,7 +59,7 @@ The main focus is the [QILT](https://www.qilt.edu.au/) project for the Australia
 ### eResearch Analyst, Deakin University - Intersect Australia
 <em>2018-2019</em>
 
-Based at Deakin University, Burwood, reporting to the Director of the eResearch team, Dr Christopher McAvaney. My role was to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
+Based at Deakin University, Burwood, reporting to the Director of the eResearch team. My role was to service researcher at the the Burwood campus, including coordinating training, providing strategic support for faculties, and supporting researchers to incorporate computational techniques into their workflow.
 
 <details>
 <summary><b>Click</b> to see a selection of activities</summary>
@@ -90,7 +77,7 @@ Worked with a researcher to harvest and analyse Twitter data. I have developed h
 ### eResearch Analyst, University of New England - Intersect Australia
 <em>2016-2018</em>
 
-Based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. Heiko Daniel. Whilst located in the Research Services Directorate, to carry out this role effectively, I worked collaboratively with the University Library and the IT Directorate, as well as the faculties.
+Based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR). Whilst located in the Research Services Directorate, to carry out this role effectively, I worked collaboratively with the University Library and the IT Directorate, as well as the faculties.
 
 <details><summary><b>Click</b> to see a selection of activities</summary>
 <p><b>Strategic Initiatives</b></p>
@@ -113,14 +100,12 @@ Based at UNE, reporting to the Deputy Vice Chancellor - Research (DVCR), Prof. H
 ---
 
 ## Education
+
+**M.Data Science**. University of New England, 2018-*on-hold*
+
 **Ph.D**, *Cum laude*. University of New England, 2010-2015
 
-
-**M.Data Science**. University of New England, 2018-*ongoing*
-
-
 **B.International Relations**, *Distinction*. Deakin University, 2007-2009
-
 
 ### Other training
 
